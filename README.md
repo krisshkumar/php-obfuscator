@@ -6,6 +6,8 @@ Make You php file anti thieft
 
 pkg install php -y
 
+pkg install git -y
+
 git clone https://github.com/krisshkumar/php-obfuscator
 
 cd php-obfuscator
